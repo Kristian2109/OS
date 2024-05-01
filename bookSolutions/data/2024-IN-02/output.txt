@@ -1,0 +1,12 @@
+Object
+Dog
+Animal -> Dog
+CatoDesk
+Cat -> CatoDesk
+Desk -> CatoDesk
+Cat
+Animal -> Cat
+Desk
+Object -> Desk
+Animal
+Object -> Animal
