@@ -1,21 +1,3 @@
-#!/bin/bash - 
-#===============================================================================
-#
-#          FILE: 03-b-9200.sh
-# 
-#         USAGE: ./03-b-9200.sh 
-# 
-#   DESCRIPTION: 
-# 
-#       OPTIONS: ---
-#  REQUIREMENTS: ---
-#          BUGS: ---
-#         NOTES: ---
-#        AUTHOR: YOUR NAME (), 
-#  ORGANIZATION: 
-#       CREATED: 03/20/24 11:13:15
-#      REVISION:  ---
-#===============================================================================
 
 set -o nounset                              # Treat unset variables as an error
 

@@ -1,21 +1,3 @@
-#!/bin/bash - 
-#===============================================================================
-#
-#          FILE: 2016-SE-03.sh
-# 
-#         USAGE: ./2016-SE-03.sh 
-# 
-#   DESCRIPTION: 
-# 
-#       OPTIONS: ---
-#  REQUIREMENTS: ---
-#          BUGS: ---
-#         NOTES: ---
-#        AUTHOR: YOUR NAME (), 
-#  ORGANIZATION: 
-#       CREATED: 04/02/24 09:49:05
-#      REVISION:  ---
-#===============================================================================
 
 set -o nounset                              # Treat unset variables as an error
 

@@ -1,21 +1,3 @@
-#!/bin/bash - 
-#===============================================================================
-#
-#          FILE: 2019-SE-02.sh
-# 
-#         USAGE: ./2019-SE-02.sh 
-# 
-#   DESCRIPTION: 
-# 
-#       OPTIONS: ---
-#  REQUIREMENTS: ---
-#          BUGS: ---
-#         NOTES: ---
-#        AUTHOR: YOUR NAME (), 
-#  ORGANIZATION: 
-#       CREATED: 04/06/24 10:44:21
-#      REVISION:  ---
-#===============================================================================
 
 set -o nounset                              # Treat unset variables as an error
 

@@ -1,21 +1,3 @@
-#!/bin/bash - 
-#===============================================================================
-#
-#          FILE: 2017-IN-02.sh
-# 
-#         USAGE: ./2017-IN-02.sh 
-# 
-#   DESCRIPTION: 
-# 
-#       OPTIONS: ---
-#  REQUIREMENTS: ---
-#          BUGS: ---
-#         NOTES: ---
-#        AUTHOR: YOUR NAME (), 
-#  ORGANIZATION: 
-#       CREATED: 04/04/24 12:30:13
-#      REVISION:  ---
-#===============================================================================
 
 set -o nounset                              # Treat unset variables as an error
 

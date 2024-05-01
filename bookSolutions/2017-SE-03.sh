@@ -1,21 +1,3 @@
-#!/bin/bash - 
-#===============================================================================
-#
-#          FILE: 2017-SE-03.sh
-# 
-#         USAGE: ./2017-SE-03.sh 
-# 
-#   DESCRIPTION: 
-# 
-#       OPTIONS: ---
-#  REQUIREMENTS: ---
-#          BUGS: ---
-#         NOTES: ---
-#        AUTHOR: YOUR NAME (), 
-#  ORGANIZATION: 
-#       CREATED: 04/09/24 16:36:58
-#      REVISION:  ---
-#===============================================================================
 
 set -o nounset                              # Treat unset variables as an error
 processes=$(ps -e -o user=,pid=,rss= | awk '{memory_per_user[$1]+=$3; count_per_user[$1]++} END {for (user in memory_per_user) print user,memory_per_user[user],count_per_user[user]}')

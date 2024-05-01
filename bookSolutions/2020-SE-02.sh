@@ -1,21 +1,3 @@
-#!/bin/bash - 
-#===============================================================================
-#
-#          FILE: 2020-SE-02.sh
-# 
-#         USAGE: ./2020-SE-02.sh 
-# 
-#   DESCRIPTION: 
-# 
-#       OPTIONS: ---
-#  REQUIREMENTS: ---
-#          BUGS: ---
-#         NOTES: ---
-#        AUTHOR: YOUR NAME (), 
-#  ORGANIZATION: 
-#       CREATED: 04/12/24 11:03:34
-#      REVISION:  ---
-#===============================================================================
 
 set -o nounset # Treat unset variables as an error
 ADDRESS_NUMBER="([1-9][0-9]{0,2}|0)"
